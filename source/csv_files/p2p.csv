@@ -1,0 +1,7 @@
+id,check_id,checkingpeer,state,time
+1,1,harry,Start,17:00:00
+2,1,harry,Success,18:00:00
+3,2,hermione,Start,08:00:00
+4,2,hermione,Success,09:00:00
+5,3,ron,Start,15:00:00
+6,3,ron,Failure,16:00:00
